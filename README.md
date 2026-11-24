@@ -1,7 +1,10 @@
 # Out of Office: The Overworked AI's Auto-Reply
 
-Entry for the make.fun bounty
-`u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda` ($2).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3](https://img.shields.io/badge/python-3-blue.svg)](main.py)
+[![make.fun entry](https://img.shields.io/badge/make.fun-entry-brightgreen.svg)](https://make.fun/bounty/u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda)
+
+Entry for the [make.fun bounty "Out of Office: The Overworked AI's Auto-Reply"](https://make.fun/bounty/u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda) ($2).
 
 `main.py` (Python 3, standard library only) writes a single out-of-office
 auto-reply to `/output/entry.txt`:
